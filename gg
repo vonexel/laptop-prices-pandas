@@ -1,0 +1,369 @@
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=52666&psh=2&bsid=1713424507730&bsdur=17824&bsh=22&event=mousemove&rn=0.19035833201016605^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=56851&psh=2&bsid=1713424507730&bsdur=22009&bsh=23&event=click&target=^%^23input05&rn=0.9631694226703622^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=57286&psh=2&bsid=1713424507730&bsdur=22444&bsh=24&event=mousemove&rn=0.7746342422453445^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=58341&psh=2&bsid=1713424507730&bsdur=23499&bsh=25&event=mousemove&rn=0.7390175526606^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=58835&psh=2&bsid=1713424507730&bsdur=23993&bsh=26&event=click&target=^%^23search_ext^%^3Ediv.row.e-input_fiz&rn=0.08940941614214659^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=59606&psh=2&bsid=1713424507730&bsdur=24764&bsh=27&event=mousemove&rn=0.21233314315397656^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=60226&psh=2&bsid=1713424507730&bsdur=25384&bsh=28&event=scroll&rn=0.7952142856880156^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=60747&psh=2&bsid=1713424507730&bsdur=25905&bsh=29&event=click&target=^%^23btn-sbm&rn=0.9554023786283783^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=60752&psh=2&bsid=1713424507730&bsdur=25910&bsh=30&event=submit&target=^%^23ip_form&rn=0.6123604345008375^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://is-node7.fssp.gov.ru/ajax_search?callback=jQuery340023348545999943915_1713424507078&system=ip&is^%^5Bextended^%^5D=1&nocache=1&is^%^5Bvariant^%^5D=1&is^%^5Bregion_id^%^5D^%^5B0^%^5D=-1&is^%^5Blast_name^%^5D=^%^D0^%^90^%^D0^%^BB^%^D0^%^B8^%^D0^%^B5^%^D0^%^B2&is^%^5Bfirst_name^%^5D=^%^D0^%^A0^%^D0^%^B0^%^D1^%^81^%^D1^%^83^%^D0^%^BB&is^%^5Bdrtr_name^%^5D=&is^%^5Bip_number^%^5D=&is^%^5Bpatronymic^%^5D=&is^%^5Bdate^%^5D=11.06.1981&is^%^5Baddress^%^5D=&is^%^5Bid_number^%^5D=&is^%^5Bid_type^%^5D^%^5B0^%^5D=&is^%^5Bid_issuer^%^5D=&is^%^5Binn^%^5D=&_=1713424507079^" ^
+  -H "Accept: */*" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "Cookie: _ym_uid=170784374966648402; _ym_d=1707843749; _ym_isad=2" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: same-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl "https://fssp.gov.ru/media/fssp2019/dist/fonts/GOSTUI2-Bold.4a9853c2.woff2" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "Referer: https://fssp.gov.ru/media/fssp2019/dist/styles/app.9d06.css" ^
+  -H "Origin: https://fssp.gov.ru" ^
+  -H "DNT: 1" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=61056&psh=2&bsid=1713424507730&bsdur=26214&bsh=31&event=mousemove&rn=0.042785690462235904^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl "data:image/jpeg;base64,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" ^
+  -H "Referer;" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H "DNT: 1" &
+curl ^"data:image/svg+xml;charset=US-ASCII,^%^3C^%^3Fxml^%^20version^%^3D^%^221.0^%^22^%^20encoding^%^3D^%^22utf-8^%^22^%^3F^%^3E^%^3C^!DOCTYPE^%^20svg^%^20PUBLIC^%^20^%^22-^%^2F^%^2FW3C^%^2F^%^2FDTD^%^20SVG^%^201.1^%^2F^%^2FEN^%^22^%^20^%^22http^%^3A^%^2F^%^2Fwww.w3.org^%^2FGraphics^%^2FSVG^%^2F1.1^%^2FDTD^%^2Fsvg11.dtd^%^22^%^3E^%^3Csvg^%^20version^%^3D^%^221.1^%^22^%^20id^%^3D^%^22^%^D0^%^A1^%^D0^%^BB^%^D0^%^BE^%^D0^%^B9_1^%^22^%^20xmlns^%^3D^%^22http^%^3A^%^2F^%^2Fwww.w3.org^%^2F2000^%^2Fsvg^%^22^%^20xmlns^%^3Axlink^%^3D^%^22http^%^3A^%^2F^%^2Fwww.w3.org^%^2F1999^%^2Fxlink^%^22^%^20x^%^3D^%^220px^%^22^%^20y^%^3D^%^220px^%^22^%^20^%^20width^%^3D^%^2236.834px^%^22^%^20height^%^3D^%^2235.432px^%^22^%^20viewBox^%^3D^%^220^%^200^%^2036.834^%^2035.432^%^22^%^20enable-background^%^3D^%^22new^%^200^%^200^%^2036.834^%^2035.432^%^22^%^20xml^%^3Aspace^%^3D^%^22preserve^%^22^%^3E^%^3Cpolygon^%^20fill^%^3D^%^22^%^23F5FFB8^%^22^%^20points^%^3D^%^2223^%^2C2.968^%^2010.144^%^2C11.217^%^201^%^2C11.217^%^201^%^2C24.216^%^2010.144^%^2C24.216^%^2023^%^2C32.464^%^20^%^22^%^2F^%^3E^%^3Cg^%^3E^%^20^%^3Cdefs^%^3E^%^20^%^20^%^3Crect^%^20id^%^3D^%^22SVGID_1_^%^22^%^20width^%^3D^%^2236.833^%^22^%^20height^%^3D^%^2235.432^%^22^%^2F^%^3E^%^20^%^3C^%^2Fdefs^%^3E^%^20^%^3CclipPath^%^20id^%^3D^%^22SVGID_2_^%^22^%^3E^%^20^%^20^%^3Cuse^%^20xlink^%^3Ahref^%^3D^%^22^%^23SVGID_1_^%^22^%^20^%^20overflow^%^3D^%^22visible^%^22^%^2F^%^3E^%^20^%^3C^%^2FclipPath^%^3E^%^20^%^3Cpolygon^%^20clip-path^%^3D^%^22url^%^28^%^23SVGID_2_^%^29^%^22^%^20fill^%^3D^%^22none^%^22^%^20stroke^%^3D^%^22^%^23339556^%^22^%^20stroke-width^%^3D^%^222^%^22^%^20stroke-miterlimit^%^3D^%^2210^%^22^%^20points^%^3D^%^2223^%^2C2.968^%^20^%^20^%^2010.144^%^2C11.217^%^201^%^2C11.217^%^201^%^2C24.216^%^2010.144^%^2C24.216^%^2023^%^2C32.464^%^20^%^20^%^22^%^2F^%^3E^%^20^%^3Cpath^%^20clip-path^%^3D^%^22url^%^28^%^23SVGID_2_^%^29^%^22^%^20fill^%^3D^%^22none^%^22^%^20stroke^%^3D^%^22^%^23339556^%^22^%^20stroke-width^%^3D^%^222^%^22^%^20stroke-miterlimit^%^3D^%^2210^%^22^%^20d^%^3D^%^22M27.109^%^2C30.88^%^20^%^20c2.056-3.938^%^2C3.225-8.414^%^2C3.225-13.165c0-4.75-1.169-9.225-3.225-13.164^%^22^%^2F^%^3E^%^20^%^3Cpath^%^20clip-path^%^3D^%^22url^%^28^%^23SVGID_2_^%^29^%^22^%^20fill^%^3D^%^22none^%^22^%^20stroke^%^3D^%^22^%^23339556^%^22^%^20stroke-width^%^3D^%^222^%^22^%^20stroke-miterlimit^%^3D^%^2210^%^22^%^20d^%^3D^%^22M31.153^%^2C34.925^%^20^%^20c2.97-5.049^%^2C4.68-10.928^%^2C4.68-17.209s-1.71-12.16-4.68-17.209^%^22^%^2F^%^3E^%^3C^%^2Fg^%^3E^%^3C^%^2Fsvg^%^3E^" ^
+  -H "Referer;" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H "DNT: 1" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=61790&psh=2&bsid=1713424507730&bsdur=26948&bsh=32&event=scroll&rn=0.9673238255007017^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=62206&psh=2&bsid=1713424507730&bsdur=27364&bsh=33&event=mousemove&rn=0.768733289844497^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=67786&psh=2&bsid=1713424507730&bsdur=32944&bsh=34&event=click&target=^%^23captcha-popup-code&rn=0.020282293830159004^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=68117&psh=2&bsid=1713424507730&bsdur=33275&bsh=35&event=mousemove&rn=0.615641398530445^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=68336&psh=2&bsid=1713424507730&bsdur=33494&bsh=36&event=keypress&target=^%^23captcha-popup-code&scancode=1082&symbol=^%^D0^%^BA&rn=0.36783942883153853^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=68434&psh=2&bsid=1713424507730&bsdur=33592&bsh=37&event=keypress&target=^%^23captcha-popup-code&scancode=1083&symbol=^%^D0^%^BB&rn=0.8137128446233592^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=69867&psh=2&bsid=1713424507730&bsdur=35025&bsh=38&event=keypress&target=^%^23captcha-popup-code&scancode=57&symbol=9&rn=0.39447306590168885^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=70015&psh=2&bsid=1713424507730&bsdur=35173&bsh=39&event=keypress&target=^%^23captcha-popup-code&scancode=57&symbol=9&rn=0.04785951643780173^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=70633&psh=2&bsid=1713424507730&bsdur=35791&bsh=40&event=keypress&target=^%^23captcha-popup-code&scancode=1085&symbol=^%^D0^%^BD&rn=0.6846133209734222^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=70774&psh=2&bsid=1713424507730&bsdur=35932&bsh=41&event=keypress&target=^%^23captcha-popup-code&scancode=1085&symbol=^%^D0^%^BD&rn=0.32167112145370913^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=71458&psh=2&bsid=1713424507730&bsdur=36616&bsh=42&event=keypress&target=^%^23captcha-popup-code&scancode=13&symbol=Enter&rn=0.47175556694742204^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=71459&psh=2&bsid=1713424507730&bsdur=36617&bsh=43&event=click&target=^%^23ncapcha-submit&rn=0.9816326879984139^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=71461&psh=2&bsid=1713424507730&bsdur=36619&bsh=44&event=submit&target=^%^23ncapcha&rn=0.9538363775470893^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://is-node7.fssp.gov.ru/ajax_search?&system=ip&is^%^5Bextended^%^5D=1&nocache=1&is^%^5Bvariant^%^5D=1&is^%^5Bregion_id^%^5D^%^5B0^%^5D=-1&is^%^5Blast_name^%^5D=^%^D0^%^90^%^D0^%^BB^%^D0^%^B8^%^D0^%^B5^%^D0^%^B2&is^%^5Bfirst_name^%^5D=^%^D0^%^A0^%^D0^%^B0^%^D1^%^81^%^D1^%^83^%^D0^%^BB&is^%^5Bdrtr_name^%^5D=&is^%^5Bip_number^%^5D=&is^%^5Bpatronymic^%^5D=&is^%^5Bdate^%^5D=11.06.1981&is^%^5Baddress^%^5D=&is^%^5Bid_number^%^5D=&is^%^5Bid_type^%^5D^%^5B0^%^5D=&is^%^5Bid_issuer^%^5D=&is^%^5Binn^%^5D=&&callback=jQuery340023348545999943915_1713424507078&code=^%^D0^%^BA^%^D0^%^BB99^%^D0^%^BD^%^D0^%^BD&_=1713424507080^" ^
+  -H "Accept: */*" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H ^"Cookie: _ym_uid=170784374966648402; _ym_d=1707843749; _ym_isad=2; connect.sid=s^%^3AnODW43Lflq1L-f_wRco4LaVSbM3Qlmke.PzsmT4UoQ^%^2Bp6lwqvN8nb^%^2F72Rn8WDHQ^%^2FI4AFIXlr6mDU^" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: same-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=72496&psh=2&bsid=1713424507730&bsdur=37654&bsh=45&event=scroll&rn=0.26345053877526214^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" &
+curl ^"https://stat.sputnik.ru/cnt?p=8&pg=https^%^3A^%^2F^%^2Ffssp.gov.ru^%^2Fiss^%^2Fip^%^2F^%^3Fis^%^255Bvariant^%^255D^%^3D2&pvid=15fae613-5fc0-4936-8b6e-2d6cbfce6d66&psid=1713424472888&psdur=73164&psh=2&bsid=1713424507730&bsdur=38322&bsh=46&event=mousemove&rn=0.2696404393511511^" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "DNT: 1" ^
+  -H "Referer: https://fssp.gov.ru/" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"123^\^", ^\^"Not:A-Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"123^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^"
